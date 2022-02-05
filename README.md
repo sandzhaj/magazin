@@ -2,4 +2,3 @@
 privet
 world
 test
-add
